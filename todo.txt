@@ -1,0 +1,4 @@
+= Week of 02/03/14
+- 3d plot
+- SAMC reconstruct posterior distribution
+- SS tools development (add sensitivity analysis)
